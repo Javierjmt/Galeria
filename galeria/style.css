@@ -1,0 +1,15 @@
+#caja{
+	height: 500px;
+	width: auto;
+	display: block;
+	margin: 0 auto;
+}
+.mini{
+	height: 100px;
+	margin: 2px;
+}
+.caja_mini{
+	display: flex;
+	justify-content: center;
+	margin: 20px;
+}
